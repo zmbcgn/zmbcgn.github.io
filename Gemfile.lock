@@ -314,6 +314,7 @@ DEPENDENCIES
   dotenv-rails
   github-pages (~> 219)
   jekyll-feed
+  jekyll-remote-theme
   jekyll-seo-tag
   jekyll-sitemap
 

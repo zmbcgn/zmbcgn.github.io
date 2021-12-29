@@ -1,8 +1,9 @@
-theme: hacker
+remote_theme: pages-themes/hacker
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-remote-theme
  
 collections:
   authors:
