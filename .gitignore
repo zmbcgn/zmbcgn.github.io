@@ -1,7 +1,0 @@
-*.env
-.sass-cache/
-Gemfile.lock
-*.gem
-.jekyll-cache/
-_site/
-.jekyll-metadata
